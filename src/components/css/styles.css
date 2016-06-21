@@ -1,0 +1,19 @@
+.axis path,
+
+.line , .axis line{
+  fill: none;
+  stroke: black;
+}
+.axis text {
+  font-family: sans-serif;
+  font-size: 11px;
+}
+
+.MyRect {
+  fill: steelblue;
+}
+
+.MyText {
+  fill: white;
+  text-anchor: middle;
+}
